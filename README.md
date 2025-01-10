@@ -1,4 +1,4 @@
-#APLIKACIJA - INTERAKTIVNI DNEVNIK DOGODKOV
+##APLIKACIJA - INTERAKTIVNI DNEVNIK DOGODKOV
 
 Spletna aplikacija Interaktivni Dnevnik Dogodkov, ki omogoča uporabnikom vnos, pregled, sortiranje in brisanje dogodkov.
 
